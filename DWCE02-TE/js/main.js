@@ -10,7 +10,7 @@ console.log("Fichero main.js cargado correctamente");
  * pasándole el gasto actual en formato JSON como parámetro.
  */
 let ultimoId = 18;  //Último ID de tu lista inicial
-let segundos = 15;	// Lo he aumentado para poder trabajar tranquilamente. (Valor por defecto: 5).
+let segundos = 30;	// Lo he aumentado para poder trabajar tranquilamente. (Valor por defecto: 5).
 
 setInterval(() => {
 	const vehiculos = ["moto", "furgoneta", "camion"];
